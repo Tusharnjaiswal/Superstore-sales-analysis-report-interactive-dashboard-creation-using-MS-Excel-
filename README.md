@@ -21,3 +21,14 @@ To analyse Superstore’s sales data, identify revenue drivers, track seasonal t
 
 - Dasboard interaction <a href="https://github.com/Tusharnjaiswal/Superstore-sales-analysis-report-interactive-dashboard-creation-using-MS-Excel-/blob/main/Screenshot%20(dashboard_1).png">view dashboard_1</a>
                       <a href="https://github.com/Tusharnjaiswal/Superstore-sales-analysis-report-interactive-dashboard-creation-using-MS-Excel-/blob/main/Screenshot%20(dashboard_2).png">view dashboard_2</a>
+
+## Process
+- verify data for any missing values and anomalies , and sort out the same.
+- Made sure data is consistent and clean with respect to data type , data format , and values used.
+- create pivot tables and pivot charts according to the questions aasked.
+- Merge all pivot tables into two dashboard and apply slicer to make it dynamic
+
+  ## Dashboard
+  <img width="1840" height="647" alt="Screenshot (dashboard_1)" src="https://github.com/user-attachments/assets/d4274a01-76fe-411e-95fb-92e8ec4c544e" />
+  <img width="1826" height="646" alt="Screenshot (dashboard_2)" src="https://github.com/user-attachments/assets/e16318f1-c9ca-4af0-a846-2d0a2242deaf" />
+
