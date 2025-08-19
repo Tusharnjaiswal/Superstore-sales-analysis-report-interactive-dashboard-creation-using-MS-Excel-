@@ -8,8 +8,8 @@ To analyse Superstore’s sales data, identify revenue drivers, track seasonal t
 
 ## Questions
 -	What is the total sales and total profit for the year?
-	Which category generated the most revenue?
-	Which subcategory had the highest profit margin?
+-	Which category generated the most revenue?
+-	Which subcategory had the highest profit margin?
 	How did monthly sales change over the year?
 	Which month had the highest sales?
 	What are the top 5 products by sales revenue?
