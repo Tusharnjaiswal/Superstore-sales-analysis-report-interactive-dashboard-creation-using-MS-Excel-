@@ -5,8 +5,9 @@ To analyse Superstore’s sales data, identify revenue drivers, track seasonal t
 ## Data used
 -<a href="https://github.com/Tusharnjaiswal/Superstore-sales-analysis-report-interactive-dashboard-creation-using-MS-Excel-/blob/main/Sales%20Analysis%20project.xlsx">Superstore dataset</a>
 
+
 ## Questions
-	What is the total sales and total profit for the year?
+-	What is the total sales and total profit for the year?
 	Which category generated the most revenue?
 	Which subcategory had the highest profit margin?
 	How did monthly sales change over the year?
@@ -17,6 +18,7 @@ To analyse Superstore’s sales data, identify revenue drivers, track seasonal t
 	Which customer segment (Consumer, Corporate, Home Office) is the most profitable?
 	How do discounts affect profit margins?
 	Are there product categories where discounts actually increase profit?
+
 
 
 -Dasboard interaction <a href="https://github.com/Tusharnjaiswal/Superstore-sales-analysis-report-interactive-dashboard-creation-using-MS-Excel-/blob/main/Screenshot%20(dashboard_1).png">view dashboard_1</a>
