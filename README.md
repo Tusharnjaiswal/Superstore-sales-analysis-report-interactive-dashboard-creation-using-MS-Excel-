@@ -1,2 +1,3 @@
-# Superstore-sales-analysis-report-interactive-dashboard-creation-using-MS-Excel-
-I developed a comprehensive project in excel ,creating multiple dashboards and tables to analyze the the data. This process involved several stages , including data cleaning , data processing , and data visualization.
+# Super-Store-Data-Analysis(Interactive dashboard creation using MS Excel)
+## Project Objective
+To analyse Superstore’s sales data, identify revenue drivers, track seasonal trends, evaluate regional and product performance, and provide actionable insights for maximizing profitability and improving customer segmentation strategies.
