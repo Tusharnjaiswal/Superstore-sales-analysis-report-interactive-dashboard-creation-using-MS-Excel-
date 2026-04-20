@@ -35,6 +35,6 @@ To analyse Superstore’s sales data, identify revenue drivers, track seasonal t
   <img width="1826" height="646" alt="Screenshot (dashboard_2)" src="https://github.com/user-attachments/assets/e16318f1-c9ca-4af0-a846-2d0a2242deaf" />
   
   ## Sample Insights
-  <img width="1086" height="658" alt="Screenshot (sample insights)" src="https://github.com/user-attachments/assets/788afef0-17ac-4da9-a256-431aa5d5f126" />
+  <img width="1086" height="658" alt="Screenshot (sample insights)" src="https://github.com/user-attachments/assets/788afef0-17ac-4da9-a256-431aa5d5f126" /> 
 
 
